@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranim</h1>
 <h3 align="center">A passionate developer from Saudi Arabia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranim1997&label=Profile%20views&color=0e75b6&style=flat" alt="ranim1997" /> </p>
-
 - 🔭 I’m currently working on **freelance and personal projects**
 
 - 📫 How to reach me **almuslimranim@gmail.com**
@@ -17,7 +15,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ranim1997"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ranim1997" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranim1997&show_icons=true&locale=en&layout=compact" alt="ranim1997" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranim1997&show_icons=true&locale=en" alt="ranim1997" /></p>
