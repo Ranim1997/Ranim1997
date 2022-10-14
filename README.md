@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranim</h1>
 <h3 align="center">A passionate developer from Saudi Arabia.</h3>
 
-- 🔭 I’m currently working on **freelance and personal projects**
+- 🔭 I’m currently working as a **full-time Business Software Developer at Arselor.**
 
 - 📫 How to reach me **almuslimranim@gmail.com**
 
