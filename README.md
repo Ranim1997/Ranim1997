@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranim</h1>
-<h3 align="center">A passionate developer from Saudi Arabia.</h3>
-<h4>Despite my primary experience being in application development, I have recently developed a strong interest in the field of business analytics. My coding background has equipped me with a logical and analytical way of thinking, while my passion for deriving data-driven insights drives me to immerse myself in data analysis.</h4>
+<h3 align="center">from Saudi Arabia.</h3>
+<h4>A motivated Business Analytics Specialist with a solid background in application development. Eager to advance in the field of data analytics, I leverage my analytical skills and coding experience to contribute to robust data models and visualizations that support data-driven insights.</h4>
 
 - 🔭 I’m currently employeed as a full-time **Business Analytics Specialist** at **NADEC**
 - 📫 How to reach me **almuslimranim@gmail.com**
