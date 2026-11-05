@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ranim</h1>
-<h3 align="center">from Saudi Arabia.</h3>
+<h3 align="center">from Saudi Arabia 💚</h3>
 <h4>Analytics Specialist working with SAP Datasphere and SAP Analytics Cloud (SAC) to build scalable data models and ETL pipelines. I transform complex operational data into clear, reliable insights through strong data modeling, SQL development, and end‑to‑end integration across SAP and non‑SAP sources. My background in Computer Science, ERP, and application development strengthens my ability to deliver analytics solutions that scale and drive meaningful impact.</h4>
 
 - 🔭 I’m currently employed as a full-time 🤐 at 🤐
--  Ex **Analytics Specialist** at **NADEC**
+- 🥛Ex **Analytics Specialist** at **NADEC** 
 - 📫 How to reach me **almuslimranim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
